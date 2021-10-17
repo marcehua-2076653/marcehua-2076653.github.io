@@ -1,0 +1,55 @@
+body {
+    background-color: #f0f8ff;
+}
+
+p {
+    border: 5px dotted blue;
+}
+
+table {
+    margin: 20px;
+    font-family: cursive;
+    border-color: black;
+    text-align: center;
+    border-collapse: collapse;
+    float: right;
+}
+th {
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+td {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.para1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.para2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
