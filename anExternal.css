@@ -25,6 +25,10 @@ td {
     padding: 5px;
 }
 
+img {
+    border-radius: 20px;
+}
+
 .para1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
@@ -32,10 +36,6 @@ td {
 .para2 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25px;
-}
-
-img {
-    border-radius: 20px;
 }
 
 .center-text {
