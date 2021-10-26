@@ -1,0 +1,45 @@
+body{
+    background-image: url(watercolor/watercolor.png);
+}
+
+h2 {
+    border: solid 8px #ffd6ad;
+    color: white;
+    border-radius: 10px;
+    background-color: #ffd6ad;
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+legend{
+    border: solid 8px #ff9f9e;;
+    color: white;
+    border-radius: 10px;
+    background-color: #ff9f9e;
+    font-family: cursive;
+    width: 25%;
+    text-align: center;
+    margin-right: auto;
+}
+
+label{
+    font-size: 18px;
+}
+    
+th{
+    background-color: white;
+}
+td{
+    background-color: #d9ead3;
+}
+.btn{
+    background-color: #d9ead3;
+    color: #09670e;
+    border: solid 2px #d9ead3;
+    font-family: cursive;
+}
+
