@@ -79,6 +79,8 @@ input[type=submit] {
     color: #09670e;
     padding: 14px 20px;
     margin: 20px;
+    position: relative;
+    left: 35%;
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -88,6 +90,7 @@ input[type=submit] {
   
 input[type=submit]:hover {
     background-color: #45a049;
+    color: white;
 }
   
 div {
@@ -101,6 +104,9 @@ fieldset{
     margin: 20px;
     border-radius: 20px;
     background:transparent url(pink_rice/pink_rice.png) repeat center top;
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
 }
   
 textarea{
